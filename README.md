@@ -31,7 +31,6 @@ Recently, text-guided image editing has achieved significant success. However, e
 ![pipeline](image/pipeline.png)
 <br><br> 
 ![qualitative_comparison](image/qualitative_comparison.png)
-<br><br> 
 ![quantitative_comparison.jpg](image/quantitative_comparison.png)
 
 ## 📆 TODO
